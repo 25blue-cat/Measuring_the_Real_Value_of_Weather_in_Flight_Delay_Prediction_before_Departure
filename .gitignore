@@ -1,0 +1,16 @@
+# Data (not distributed; see README)
+/data/
+results/*.npz
+results/*.pkl
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Files pending manual deletion
+_to_delete/
