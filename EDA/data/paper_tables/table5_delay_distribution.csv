@@ -1,0 +1,6 @@
+Delay bucket,N flights,% of total
+On-time or early (≤0 min),"5,769,358",67.48%
+Minor delay (0-15 min),"1,291,795",15.11%
+Moderate delay (15-60 min),"999,511",11.69%
+Major delay (60-180 min),"401,340",4.69%
+Severe delay (180+ min),"88,320",1.03%

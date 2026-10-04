@@ -1,0 +1,9 @@
+,Origin frequency (%),Dest frequency (%)
+has_rain,6.89,6.78
+has_snow,0.87,0.85
+has_fog,0.89,0.56
+has_mist,6.22,5.46
+has_thunder,1.09,1.1
+has_freezing,0.13,0.11
+is_heavy,0.69,0.67
+has_gust,13.76,13.8

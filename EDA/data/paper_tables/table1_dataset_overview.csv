@@ -1,0 +1,16 @@
+Metric,Value
+Time period,2018-01-01 to 2022-07-31
+Number of flights (N),"9,981,331"
+Number of Origin airports,137
+Number of Dest airports,137
+Number of U.S. states,10
+Weather features per endpoint (models),31
+Delay rate (ArrDel15 = 1),18.05%
+Mean arrival delay (min),12.92
+Median arrival delay (min),0.00
+p75 arrival delay (min),6.00
+p90 arrival delay (min),35.00
+p99 arrival delay (min),185.00
+Max arrival delay (min),3089
+Data source (flights),BTS On-Time Performance
+Data source (weather),NOAA Local Climatological Data

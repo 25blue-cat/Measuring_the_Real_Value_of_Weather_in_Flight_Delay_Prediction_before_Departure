@@ -1,0 +1,7 @@
+Weather Condition,N (with),Δ Mean Delay (min),MWU p-value,Cohen's d,Effect Size
+Rain,588874,11.741532,< 0.001,0.271,small
+Snow,74764,28.124702,< 0.001,0.649,medium
+Fog,76334,11.743587,< 0.001,0.27,small
+Mist,531924,8.836097,< 0.001,0.204,small
+Thunder,93418,40.960587,< 0.001,0.947,large
+Freezing,10715,40.123657,< 0.001,0.924,large

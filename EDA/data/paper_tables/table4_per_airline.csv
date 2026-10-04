@@ -1,0 +1,11 @@
+Airline,n_flights,mean_delay,pct_delayed,n_flights_str,pct_of_total
+Southwest Airlines Co.,1620812,9.95,18.0%,"1,620,812",18.96%
+American Airlines Inc.,1255629,13.32,18.0%,"1,255,629",14.69%
+Delta Air Lines Inc.,1020734,9.57,13.0%,"1,020,734",11.94%
+United Air Lines Inc.,932779,12.39,17.0%,"932,779",10.91%
+SkyWest Airlines Inc.,737280,15.07,18.0%,"737,280",8.62%
+JetBlue Airways,353585,18.13,24.0%,"353,585",4.14%
+Envoy Air,304703,11.64,17.0%,"304,703",3.56%
+Alaska Airlines Inc.,301323,10.09,18.0%,"301,323",3.52%
+Comair Inc.,277335,12.0,17.0%,"277,335",3.24%
+Mesa Airlines Inc.,267550,17.0,20.0%,"267,550",3.13%

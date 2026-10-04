@@ -1,0 +1,7 @@
+Condition,N (with),Mean delay w/o,Mean delay w/,Δ mean delay,MWU p-value,Cohen's d,Effect (d),Chi² p-value,Cramér's V,Effect (V)
+Rain,588874,11.654292,23.395824,11.741532,< 0.001,0.271,small,< 0.001,0.087,negligible
+Snow,74764,12.212829,40.337532,28.124702,< 0.001,0.649,medium,< 0.001,0.082,negligible
+Fog,76334,12.353787,24.097374,11.743587,< 0.001,0.27,small,< 0.001,0.02,negligible
+Mist,531924,11.909165,20.745262,8.836097,< 0.001,0.204,small,< 0.001,0.065,negligible
+Thunder,93418,12.020519,52.981106,40.960587,< 0.001,0.947,large,< 0.001,0.107,small
+Freezing,10715,12.408396,52.53205,40.123657,< 0.001,0.924,large,< 0.001,0.039,negligible

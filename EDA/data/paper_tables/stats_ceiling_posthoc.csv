@@ -1,0 +1,7 @@
+Comparison,Mean delay diff,MWU p (adj),Cohen's d,Effect
+MVFR vs VFR,2.1274195,< 0.001,0.051,negligible
+IFR vs VFR,7.450982,< 0.001,0.176,negligible
+LIFR vs VFR,11.211865,< 0.001,0.264,small
+IFR vs MVFR,5.3235626,< 0.001,0.112,negligible
+LIFR vs MVFR,9.084446,< 0.001,0.187,negligible
+LIFR vs IFR,3.7608833,< 0.001,0.064,negligible

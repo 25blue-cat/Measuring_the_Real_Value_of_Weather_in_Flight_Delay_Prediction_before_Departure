@@ -1,0 +1,5 @@
+org_ceiling_cat,n_flights,mean_delay,pct_delayed,% of flights
+IFR,"429,682",19.1,26.0%,5.03%
+LIFR,"209,594",22.78,28.0%,2.45%
+MVFR,"1,026,553",13.56,19.0%,12.01%
+VFR,"6,866,931",11.53,16.0%,80.31%
